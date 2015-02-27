@@ -1,4 +1,4 @@
-# Repository of relevant backgrounds documents and other materials
+##  Repository diectory of backgrounds documents and other materials relevant to data and identity strategy and roadmap development
 
 **MassIT MassData + DMO Relevant Links
 
@@ -213,9 +213,6 @@ http://labs.nationalarchives.gov.uk/wordpress/
 
 ========
 
-
-Inbox (3) - dazza@civics.com - CIVICS.com Mail
-https://mail.google.com/mail/u/0/?hl=en&tab=wm#inbox
 
 Law Design Tech | What’s going wrong with the Access to Justice...
 http://lawdesigntech.tumblr.com/post/108579231842/whats-going-wrong-with-the-access-to-justice
