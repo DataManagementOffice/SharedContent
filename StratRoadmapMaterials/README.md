@@ -547,14 +547,12 @@ http://media.nationalarchives.gov.uk/
 The National Archives Labs
 http://labs.nationalarchives.gov.uk/wordpress/
 
-
-====
-MassData/MassIT
-https://github.com/MassData/MassIT
-
 www.noplanenogain.org/images/1255960726.pdf_copy3.pdf
 http://www.noplanenogain.org/images/1255960726.pdf_copy3.pdf
 
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=22&ved=0CCQQFjABOBQ&url=https%3A%2F%2Facc.dau.mil%2FGetAttachment.aspx%3Fid%3D33771%26pname%3Dfile%26aid%3D6882%26lang%3Den-US&ei=sw2-VNDHDrDgsATG5IHYDg&usg=AFQjCNFgh1DKsQDnvdtiKO4q-8JigcwL8Q&bvm=bv.83829542,d.cWc&cad=rja
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=22&ved=0CCQQFjABOBQ&url=https%3A%2F%2Facc.dau.mil%2FGetAttachment.aspx%3Fid%3D33771%26pname%3Dfile%26aid%3D6882%26lang%3Den-US&ei=sw2-VNDHDrDgsATG5IHYDg&usg=AFQjCNFgh1DKsQDnvdtiKO4q-8JigcwL8Q&bvm=bv.83829542,d.cWc&cad=rja
+
+Deutsches Institut für Normung : Structure
+http://www.jtc1sc27.din.de/cmd?level=tpl-bereich&menuid=63157&cmsareaid=63157&languageid=en
 
