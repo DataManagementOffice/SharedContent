@@ -24,8 +24,7 @@ Three Principles for Measuring the Value of Enterprise Social Networks | Thought
 European Commission - PRESS RELEASES - Press release - Speech: A data protection compact for Europe
 * http://europa.eu/rapid/press-release_IP-14-62_en.htm
 
-Enterprise Data Warehouse
-# Enterprise Data Warehouse
+## Enterprise Data Warehouse
 http://www.information-management-architect.com/enterprise-data-warehouse.html
 
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=36&ved=0CDsQFjAFOB4&url=https%3A%2F%2Fvic.kennesaw.edu%2FEIMWebApps%2Fvic%2Fprofessional_presentations%2Fdocuments%2Fppt%2FPTS.ppt&ei=Eg6-VIO7KcS1sAT6_IHgDg&usg=AFQjCNETeNk9XR-hrlpuxUwykLBG54bv5g&bvm=bv.83829542,d.cWc&cad=rja
@@ -220,22 +219,6 @@ The National Archives Labs
 
 
 ========
-
-
-Law Design Tech | What’s going wrong with the Access to Justice...
-* http://lawdesigntech.tumblr.com/post/108579231842/whats-going-wrong-with-the-access-to-justice
-
-What's going wrong with the Access to Justice movement? - Open Law Lab
-* http://www.openlawlab.com/2015/01/19/whats-going-wrong-access-justice-movement/
-
-About - Open Law Lab
-* http://www.openlawlab.com/about/
-
-Margaret Hagan | Law & Design
-* http://www.margarethagan.com/
-
-MassData/MassIT
-* https://github.com/MassData/MassIT
 
 www.noplanenogain.org/images/1255960726.pdf_copy3.pdf
 * http://www.noplanenogain.org/images/1255960726.pdf_copy3.pdf
