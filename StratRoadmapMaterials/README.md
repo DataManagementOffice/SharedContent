@@ -1,18 +1,16 @@
 ##  Repository diectory of backgrounds documents and other materials relevant to data and identity strategy and roadmap development
 
-**MassIT MassData + DMO Relevant Links**
 
-
-www.arma.org/docs/default-document-library/ig_principles-ahima.pdf
+ARMA Princoples
 * http://www.arma.org/docs/default-document-library/ig_principles-ahima.pdf
 
-www.ncl.ac.uk/res/assets/documents/DraftResearchDataManagementPolicyPrinciplesandCodeofGoodPractice.pdf
+NCL Data Management Principles (UK)
 * http://www.ncl.ac.uk/res/assets/documents/DraftResearchDataManagementPolicyPrinciplesandCodeofGoodPractice.pdf
 
 Leading Innovation in Enterprise Information Governance
 * http://library.ahima.org/xpedio/groups/public/documents/ahima/bok1_050330.hcsp?dDocName=bok1_050330
 
-* https://www.privacyassociation.org/media/presentations/13CS/CPS13_Protecting_the_Packrat_PPT.pdf
+Privacy Presentation
 * https://www.privacyassociation.org/media/presentations/13CS/CPS13_Protecting_the_Packrat_PPT.pdf
 
 EU Legal Study: All EU Data Retention Laws May be Dodgy - Technology Blog and Community from IT Experts - ComputerworldUK.com
