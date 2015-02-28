@@ -25,6 +25,14 @@ European Commission - PRESS RELEASES - Press release - Speech: A data protection
 * http://europa.eu/rapid/press-release_IP-14-62_en.htm
 
 Enterprise Data Warehouse
+# Enterprise Data Warehouse
+http://www.information-management-architect.com/enterprise-data-warehouse.html
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=36&ved=0CDsQFjAFOB4&url=https%3A%2F%2Fvic.kennesaw.edu%2FEIMWebApps%2Fvic%2Fprofessional_presentations%2Fdocuments%2Fppt%2FPTS.ppt&ei=Eg6-VIO7KcS1sAT6_IHgDg&usg=AFQjCNETeNk9XR-hrlpuxUwykLBG54bv5g&bvm=bv.83829542,d.cWc&cad=rja
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=36&ved=0CDsQFjAFOB4&url=https%3A%2F%2Fvic.kennesaw.edu%2FEIMWebApps%2Fvic%2Fprofessional_presentations%2Fdocuments%2Fppt%2FPTS.ppt&ei=Eg6-VIO7KcS1sAT6_IHgDg&usg=AFQjCNETeNk9XR-hrlpuxUwykLBG54bv5g&bvm=bv.83829542,d.cWc&cad=rja
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=37&ved=0CEIQFjAGOB4&url=https%3A%2F%2Fthesedonaconference.org%2Fsystem%2Ffiles%2Fsites%2Fsedona.civicactions.net%2Ffiles%2Fprivate%2Fdrupal%2Ffilesys%2Fpublications%2FDatabase_Principles.pdf&ei=Eg6-VIO7KcS1sAT6_IHgDg&usg=AFQjCNEusj9S4nRHt5rdzg1mJDJUOaX1aw&bvm=bv.83829542,d.cWc&cad=rja
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=37&ved=0CEIQFjAGOB4&url=https%3A%2F%2Fthesedonaconference.org%2Fsystem%2Ffiles%2Fsites%2Fsedona.civicactions.net%2Ffiles%2Fprivate%2Fdrupal%2Ffilesys%2Fpublications%2FDatabase_Principles.pdf&ei=Eg6-VIO7KcS1sAT6_IHgDg&usg=AFQjCNEusj9S4nRHt5rdzg1mJDJUOaX1aw&bvm=bv.83829542,d.cWc&cad=rja
 * http://www.information-management-architect.com/enterprise-data-warehouse.html
 
 * https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=36&ved=0CDsQFjAFOB4&url=* https%3A%2F%2Fvic.kennesaw.edu%2FEIMWebApps%2Fvic%2Fprofessional_presentations%2Fdocuments%2Fppt%2FPTS.ppt&ei=Eg6-VIO7KcS1sAT6_IHgDg&usg=AFQjCNETeNk9XR-hrlpuxUwykLBG54bv5g&bvm=bv.83829542,d.cWc&cad=rja
