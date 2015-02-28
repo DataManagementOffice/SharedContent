@@ -1,4 +1,4 @@
-To navigate content better search, filter and sort is needed.  Below are some potential approached to front-end filtered and faceted browsing experiences.  
+**To navigate content better search, filter and sort is needed.  Below are some potential approached to front-end filtered and faceted browsing experiences.** 
 
 
 simple filtered views files collections - Google Search
